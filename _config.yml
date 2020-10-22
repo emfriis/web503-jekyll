@@ -119,11 +119,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
+- title: Home       |
   url: /web503-jekyll/
-- title: Shop
+- title: Shop       |
   url: /web503-jekyll/shop/
-- title: Checkout
+- title: Checkout       |
   url: /web503-jekyll/checkout/
 - title: Sign Up/Sign In
   url: /web503-jekyll/login/
