@@ -125,7 +125,7 @@ navigation_header:
   url: /shop/
 - title: Checkout
   url: /checkout/
-- title: Sign Up/Sign In
+- title: Log In/Sign Up
   url: /login/
 
 navigation_footer:
