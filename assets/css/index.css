@@ -1,0 +1,107 @@
+.line {
+    width: 100%;
+}
+
+.footer {
+    display: flex; 
+    align-items: center;
+}
+
+.footer-logo {
+    height: 100px; 
+    width: 150px; 
+    margin-left: 100px; 
+    margin-right: 100px;
+}
+
+.footer-loc {
+    margin-left: 100px; 
+    margin-right: 100px; 
+    font-size: small; 
+    line-height: 1;
+}
+
+.footer-social {
+    height: 100px; 
+    width: 100px; 
+    margin-left: 100px; 
+    margin-right: 100px;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-gallery {
+    display: flex; 
+    align-items: center;
+}
+
+.home-img {
+    width: 24vw; 
+    height: 16vw; 
+    padding: 15px;
+}
+
+.shop-search {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.search-icon {
+    width: 2vw; 
+    height: 2vw;
+}
+
+.flex {
+    display: flex;
+}
+
+.card {
+    border: 1px solid black; 
+    width: 330px; 
+    margin-right: 30px; 
+    margin-bottom: 30px;
+}
+
+.card-label {
+    display: flex; 
+    justify-content: center; 
+    height: 50px;
+}
+
+.card-img {
+    width: 225px; 
+    height: 150px; 
+    padding: 3px;
+}
+
+.card-stars {
+    width: 100px; 
+    height: 30px; 
+    padding: 3px;
+}
+
+.card-buy {
+    width: 80px; 
+    height: 40px; 
+    padding: 3px;
+}
+
+.form-block {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.form {
+    margin: 15px
+}
+
+
+
+
